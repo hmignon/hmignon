@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **more about Django and Django REST Framework, and a bit of Frontend development**
 
 
-### ⚡ Languages and Tools
+## ⚡ Languages and Tools
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -36,7 +36,7 @@
 </p>
 
 
-### 📈 Stats
+## 📈 Stats
 
 <div align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=hmignon&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
