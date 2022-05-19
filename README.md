@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/hmignon">
-        <img src="github-header-image.png"  alt="header"/>
+        <img src="github-header-image.png" alt="header"/>
     </a>
 </h1>
 
@@ -27,7 +27,7 @@
 
 - 💼 I'm looking for job opportunities around Reims, France or remote in Python / Django development.
 
-## ⚡ Languages and Tools
+### ⚡ Languages and Tools
 
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -44,10 +44,10 @@
 </p>
 
 
-## 📈 Stats
+### 📈 Stats
 
 <p align="center">
     <a href="https://github.com/hmignon">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=hmignon&show_icons=true&count_private=true&hide_border=true&theme=darcula" alt="Hélène's GitHub Stats" />
+      <img align="top" src="https://github-readme-stats.vercel.app/api?username=hmignon&show_icons=true&count_private=true&hide_border=true&theme=nightowl" alt="Hélène's GitHub Stats" />
     </a>
 </p>
