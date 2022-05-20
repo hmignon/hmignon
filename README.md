@@ -19,13 +19,15 @@
     </a>
 </p>
 
-- 👩‍🎓 Freshly graduated from [OpenClassrooms Python developer course](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python)
+👩‍🎓 Freshly graduated from [OpenClassrooms Python developer course](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python)
 
-- 🔭 I’m currently working on [a personal Django Blog project](https://github.com/hmignon/django-blog-project)
+🔭 I’m currently working on [a personal Django Blog project](https://github.com/hmignon/django-blog-project)
 
-- 📌 I’m focusing on learning **more about Django and Django REST Framework and improving on my Frontend development skills**
+📌 I’m focusing on learning **more about Django and Django REST Framework and improving on my Frontend development skills**
 
-- 💼 I'm looking for job opportunities around Reims, France or remote in Python / Django development.
+💼 I'm looking for job opportunities around Reims, France or remote in Python / Django development.
+
+---
 
 ### ⚡ Languages and Tools
 
