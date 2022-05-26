@@ -27,7 +27,7 @@
 
 💼 I'm looking for job opportunities around Reims, France or remote in Python / Django development.
 
----
+<h1></h1>
 
 ### ⚡ Languages and Tools
 
